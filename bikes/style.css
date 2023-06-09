@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+body {
+    background-color: antiquewhite;
+}
+
 .nav-container {
     margin-top: 20px;
     display: flex;
